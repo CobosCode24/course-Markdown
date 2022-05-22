@@ -174,21 +174,7 @@ I need to highlight these ==very important words==.
 
 ---
 
-~~~
-Para poner subindice y superindice:
-  -> subindice
-    H~2~O
 
-  -> superindice
-    X^2^
-
-~~~
-
-H~2~O
-
-X^2^
-
----
 
 <br><br><br>
 
